@@ -143,7 +143,6 @@
     document.querySelector('c-snhu-Apo-Web-Pre-Chat').medium= 'Medium';
     document.querySelector('c-snhu-Apo-Web-Pre-Chat').content= 'Content';
     document.querySelector('c-snhu-Apo-Web-Pre-Chat').term= 'Term';
-    document.querySelector('c-snhu-Apo-Web-Pre-Chat').originalFormSource= 'Original_Form_Source';
     document.querySelector('c-snhu-Apo-Web-Pre-Chat').googleID= 'Google_ID__c';
 		}	    
 	    })
